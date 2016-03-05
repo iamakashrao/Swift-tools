@@ -12,6 +12,7 @@ Swift tools
 
 [vapor](https://github.com/qutheory/vapor) Elegant web framework for Swift that works on iOS, OS X, and Ubuntu.
 
+[Express](https://github.com/crossroadlabs/Express) Swift Express is a simple, yet unopinionated web application server written in Swift
 
 #Algorithm
 [BTree](https://github.com/lorentey/BTree) Fast ordered collections for Swift using in-memory B-trees
