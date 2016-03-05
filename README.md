@@ -20,3 +20,8 @@ Swift tools
 ##Environmental
 
 [Swiftenv](https://github.com/kylef/swiftenv)
+
+##Science
+
+[Surge](https://github.com/mattt/Surge) A Swift library that uses the Accelerate framework to provide high-performance functions for matrix math, digital signal processing, and image manipulation.
+
