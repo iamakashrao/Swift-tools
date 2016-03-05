@@ -10,6 +10,8 @@ Swift tools
 
 [Perfect](https://github.com/PerfectlySoft/Perfect) Server-side Swift. The Perfect library, application server, connectors and example apps. (For mobile back-end development, website and web app development, and more...)
 
+[vapor](https://github.com/qutheory/vapor) Elegant web framework for Swift that works on iOS, OS X, and Ubuntu.
+
 
 #Algorithm
 [BTree](https://github.com/lorentey/BTree) Fast ordered collections for Swift using in-memory B-trees
