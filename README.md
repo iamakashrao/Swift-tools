@@ -14,13 +14,14 @@ Swift tools
 
 [Express](https://github.com/crossroadlabs/Express) Swift Express is a simple, yet unopinionated web application server written in Swift
 
-#Algorithm
+##Algorithm
 [BTree](https://github.com/lorentey/BTree) Fast ordered collections for Swift using in-memory B-trees
 
 ##Environmental
 
 [Swiftenv](https://github.com/kylef/swiftenv)
 
+[Rainbow](https://github.com/onevcat/Rainbow) Delightful console output for Swift developers.
 ##Science
 
 [Surge](https://github.com/mattt/Surge) A Swift library that uses the Accelerate framework to provide high-performance functions for matrix math, digital signal processing, and image manipulation.
